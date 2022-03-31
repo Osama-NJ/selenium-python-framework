@@ -9,7 +9,7 @@
 * 🐍Python  3.9
 * Google Chrome driver is compatible with your browser
 
-### Test cases/suits features:
+### Test cases/suits features :
 * Alerts
 * Clicks
 * Dropdown
